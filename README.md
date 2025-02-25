@@ -45,10 +45,20 @@ The analysis is structured around **seven key goals** that guide the EdTech comp
 - **WordCloud** for skill analysis
 - **NumPy** for numerical calculations
 
-## Results & Business Impact
-- Provided **data-driven insights** to improve course planning and optimize learner engagement.
-- Helped the startup **identify high-potential courses & instructors**.
-- Suggested **content strategies** based on market demand and engagement patterns.
+Insights
+Popular Categories: AI & Data Science, Business, and IT & Software dominate; Personal Development and Health & Fitness are emerging.
+In-Demand Skills: Python, Machine Learning, Business Strategy, and Cloud Computing lead; Excel, Financial Modeling, and Digital Marketing dominate Business courses.
+Language Preference: English (~97%) dominates; local languages (Hindi, Portuguese, Arabic) see high regional engagement.
+Subtitles & Engagement: Courses with 5-15 subtitles perform best; no subtitles reduce engagement, while >15 subtitles show diminishing returns.
+Course Duration: <100-hour courses attract the most viewers; >400-hour courses see declining engagement, except a few in the 500-600 hour range.
+Skill Variety: Courses covering 2-5 core skills perform better than those overloaded with topics.
+Recommendations
+✅ Expand AI & Data Science courses and invest in emerging categories.
+✅ Align new courses with trending skills like Deep Learning and NLP.
+✅ Provide multi-language support/subtitles for wider reach.
+✅ Optimize subtitles to 5-15 for maximum engagement.
+✅ Keep courses under 100 hours and offer modular structures.
+✅ Focus on 3-5 core skills per course to improve clarity and retention.
 
 
 
